@@ -1,4 +1,4 @@
-### Hi there 👋 My is Diogo, I'm an web developer.
+### Hi there 👋 My is Diogo, I'm a web developer.
 
 <p align="left"> 
   Visitas no perfil: <br/>
