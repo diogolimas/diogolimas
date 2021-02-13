@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="left"> 
+  Visitas no perfil: <br/>
+  <img src="https://profile-counter.glitch.me/jilcimar/count.svg">
+</p>
+
+
 <!--
 **diogolimas/diogolimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
