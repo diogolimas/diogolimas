@@ -1,7 +1,13 @@
 ### Hi there 👋 My is Diogo, I'm a web developer.
 
+
+<p > Contact me: </p>
+
+:mailbox:
+
+
 <p align="left"> 
-  Visitas no perfil: <br/>
+  Visits cout on my profile: <br/>
   <img src="https://profile-counter.glitch.me/diogolimas/count.svg">
 </p>
 
