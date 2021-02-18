@@ -3,7 +3,7 @@
 
 <p > Contact me: </p>
 
-:mailbox:
+
 
 
 <p align="left"> 
