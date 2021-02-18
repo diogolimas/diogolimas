@@ -3,7 +3,11 @@
 
 <p > Contact me: </p>
 
+<<<<<<< HEAD
 <a target="_blank" href="google.com"> <img src="../img/linkedin.svg"> <a>
+=======
+
+>>>>>>> b6a65cce37e69bc1526d7bec04a3314d05e838a3
 
 
 <p align="left"> 
