@@ -3,7 +3,7 @@
 
 <p > Contact me: </p>
 
-:mailbox:
+<a target="_blank" href="google.com"> <img src="../img/linkedin.svg"> <a>
 
 
 <p align="left"> 
