@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Visitas no perfil: <br/>
-  <img src="https://profile-counter.glitch.me/jilcimar/count.svg">
+  <img src="https://profile-counter.glitch.me/diogolimas/count.svg">
 </p>
 
 
