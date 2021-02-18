@@ -3,10 +3,10 @@
 
 <p > Contact me: </p>
 
-<a target="_blank" href="https://www.linkedin.com/in/diogo-limas/"> <img src="https://github.com/diogolimas/diogolimas/blob/main/img/linkedin.svg"> <a>
-<a target="_blank" href="mailto:diogo.libras43@gmail.com"> <img src="https://github.com/diogolimas/diogolimas/blob/main/img/gmail.svg"> <a>
-<a target="_blank" href="https://instagram.com/diogolima.io"> <img src="https://github.com/diogolimas/diogolimas/blob/main/img/instagram.svg"> <a>
-<a target="_blank" href="https://diogolimas.github.io"> <img src="https://github.com/diogolimas/diogolimas/blob/main/img/man.svg"> <a>
+<a style="witdth: 40px;" target="_blank" href="https://www.linkedin.com/in/diogo-limas/"> <img style="witdth: 40px;" src="https://github.com/diogolimas/diogolimas/blob/main/img/linkedin.svg"> <a>
+<a style="witdth: 40px;" target="_blank" href="mailto:diogo.libras43@gmail.com"> <img src="https://github.com/diogolimas/diogolimas/blob/main/img/gmail.svg"> <a>
+<a style="witdth: 40px;" target="_blank" href="https://instagram.com/diogolima.io"> <img src="https://github.com/diogolimas/diogolimas/blob/main/img/instagram.svg"> <a>
+<a style="witdth: 40px;" target="_blank" href="https://diogolimas.github.io"> <img src="https://github.com/diogolimas/diogolimas/blob/main/img/man.svg"> <a>
 
 <p align="left"> 
   Visits cout on my profile: <br/>
