@@ -3,7 +3,7 @@
 
  ### Contact me:
 
-<a style="margin-right: 30px;" target="_blank" href="https://www.linkedin.com/in/diogo-limas/"> <img width="40px" src="https://github.com/diogolimas/diogolimas/blob/main/img/linkedin.svg"> <a>
+<a style="margin-right: 30px;" target="_blank" href="https://www.linkedin.com/in/diogolimas/"> <img width="40px" src="https://github.com/diogolimas/diogolimas/blob/main/img/linkedin.svg"> <a>
   
 <a  target="_blank" href="mailto:diogo.libras43@gmail.com"> <img width="40px" src="https://github.com/diogolimas/diogolimas/blob/main/img/gmail.svg"> <a>
   
