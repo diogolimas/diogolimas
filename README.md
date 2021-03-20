@@ -1,4 +1,4 @@
-### Hi there 👋 My is Diogo, I'm a web developer.
+### Hi there 👋 I'm Diogo and I'm a web developer.
 
 
  ### Contact me:
