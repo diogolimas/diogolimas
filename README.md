@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Diogo and I'm a web developer.
 
 
- ### Contact me:
+ ### Connect with me:
 
 <a style="margin-right: 30px;" target="_blank" href="https://www.linkedin.com/in/diogolimas/"> <img width="40px" src="https://github.com/diogolimas/diogolimas/blob/main/img/linkedin.svg"> <a>
   
@@ -10,6 +10,18 @@
 <a  target="_blank" href="https://instagram.com/diogolima.io"> <img  width="40px" src="https://github.com/diogolimas/diogolimas/blob/main/img/instagram.svg"> <a>
   
 <a style="width: 40px;" target="_blank" href="https://diogolimas.github.io"> <img width="40px" src="https://github.com/diogolimas/diogolimas/blob/main/img/man.svg"> <a>
+
+
+
+
+### **Statistics and Languages:**
+![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=diogolimas&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)<br>
+![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogolimas&layout=compact&hide=php&hide_border=true)
+<p align="center">
+
+
+<br > <br ><br >
+
 
 <p align="left"> 
   Visits cout on my profile: <br/>
