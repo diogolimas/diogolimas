@@ -15,7 +15,8 @@
 
 
 ### **Statistics and Languages:**
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogolimas&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogolimas&count_private=true)
+ <br>
 ![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogolimas&hide_border=true)
 
 <p align="center">
