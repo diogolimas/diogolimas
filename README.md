@@ -16,7 +16,8 @@
 
 ### **Statistics and Languages:**
 ![Vishwasa's Stats](https://github-readme-stats.vercel.app/api?username=diogolimas&count_private=true&hide_border=true&show_icons=true&hide_title=true&hide=stars)<br>
-![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogolimas&layout=compact&hide=php&hide_border=true)
+![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogolimas&layout=compact&hide_border=true)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogolimas&count_private=true)
 <p align="center">
 
 
