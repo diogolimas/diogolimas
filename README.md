@@ -1,35 +1,67 @@
-### Hi there 👋 I'm Diogo and I'm a web developer.
+![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=diogolimas&repo=diogolimas&countColorcountColor)
+### Hi there 👋 I'm Diogo and I'm a Software Developer.
+
+<br>
+
+ ### Connect with me: 🤝
+ 
+
+<p align="left">
+<a href="http://bit.ly/guillaumefalourdlinkedin"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="http://bit.ly/guillaumefalourdtwitter"><img src="https://img.shields.io/badge/-@GuiFalourd-%231DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="http://bit.ly/guillaumefalourdmedium"><img src="https://img.shields.io/badge/-@guillaume.falourd-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+<a href="http://bit.ly/guillaumefalourddevto"><img src="https://img.shields.io/badge/-guifalourd-%2312100E?style=flat&logo=dev.to&logoColor=white"/></a>
+<a href="mailto:guillaume.falourd@gmail.com"><img src="https://img.shields.io/badge/-guillaume.falourd@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
+
+<br>
+
+<!--
+### Languages & Tools 🛠
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)
+
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown);
+
+![Shell](https://img.shields.io/badge/Shell-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp; -->
+
+<!--![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-05122A?style=flat&logo=apache-kafka)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&logo=cucumber)&nbsp;
+![CircleCI](https://img.shields.io/badge/CircleCI-05122A?style=flat&logo=circleci&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring&logoColor=white)&nbsp;
+![Maven](https://img.shields.io/badge/-Maven-05122A?style=flat&logo=apache-maven&logoColor=white)&nbsp;
 
 
- ### Connect with me:
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-05122A?style=flat&logo=github-actions&logoColor=white)&nbsp;
 
-<a style="margin-right: 30px;" target="_blank" href="https://www.linkedin.com/in/diogolimas/"> <img width="40px" src="https://github.com/diogolimas/diogolimas/blob/main/img/linkedin.svg"> <a>
-  
-<a  target="_blank" href="mailto:diogo.libras43@gmail.com"> <img width="40px" src="https://github.com/diogolimas/diogolimas/blob/main/img/gmail.svg"> <a>
-  
-<a  target="_blank" href="https://instagram.com/diogolima.io"> <img  width="40px" src="https://github.com/diogolimas/diogolimas/blob/main/img/instagram.svg"> <a>
-  
-<a style="width: 40px;" target="_blank" href="https://diogolimas.github.io"> <img width="40px" src="https://github.com/diogolimas/diogolimas/blob/main/img/man.svg"> <a>
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
 
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 
+-->
 
 ### **Statistics and Languages:**
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diogolimas&count_private=true)
  <br>
 ![Vishwasa's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diogolimas&hide_border=true)
 
-<p align="center">
 
-
-<br > <br ><br >
-
-
-<p align="left"> 
-  Visits cout on my profile: <br/>
-  <img src="https://profile-counter.glitch.me/diogolimas/count.svg">
-</p>
-
+#### _References:  _[A similar README profile](https://github.com/GuillaumeFalourd/GuillaumeFalourd) ⭐️_
 
 <!--
 **diogolimas/diogolimas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
