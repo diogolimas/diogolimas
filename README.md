@@ -8,8 +8,8 @@
 
 <p align="left">
 <a href="https://bit.ly/34siz7M" target="_blank" ><img src="https://img.shields.io/badge/-diogolimas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://bit.ly/3p7u1zg"><img src="https://img.shields.io/badge/-diogolima.io-%8c40ba?style=flat&logo=instagram&logoColor=white"/></a>
-<a href="https://diogolimas.github.io/"><img src="https://img.shields.io/badge/-diogolima-%FF5722?style=flat&logo=blogger&logoColor=white"/></a>
+<a href="https://bit.ly/3p7u1zg"><img src="https://img.shields.io/badge/-diogolima.io-%fffff?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="https://diogolimas.github.io/"><img src="https://img.shields.io/badge/-diogolima-%fffff?style=flat&logo=blogger&logoColor=white"/></a>
 <a href="mailto:profissional.diogolima@gmail.com"><img src="https://img.shields.io/badge/-profissional.diogolima@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
